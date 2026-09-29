@@ -1,0 +1,16 @@
+# Build output
+target/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Local benchmark output (committed results live in "csv files/")
+/results.csv
+/*.png
+
+# Evaluation results: kept locally, not published for now
+/csv files/
